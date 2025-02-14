@@ -1,16 +1,20 @@
-Opaa, eu sou o Ricardo! 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
 ##
 
-<p>Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza - UNIFOR. 
-  <br>
-Atualmente trabalho como Gestor de CRM e estudo paralelamente.
-  <br>
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções.
+**Hi, I'm Ricardo!**
+
+I'm a student of Analysis and System Development at the University of Fortaleza - UNIFOR. I currently work as a CRM Manager while studying in parallel.
+<br> 
+ I am constantly updating my knowledge and seeking new challenges in the technology field. I have a passion for learning and applying this knowledge to create solutions.
 
 ![Ricardo Jr GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ricardojrdev&show_icons=true&theme=dark&card_width=450)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardojrdev&layout=compact&theme=dark&card_width=450)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardojrdev&layout=compact&theme=dark&card_width=450&height=180)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rjr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,11 +26,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 </div>
 
 ##
-
-<div> 
-  <a href = "mailto:ricardojr.unifor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/oricardojr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardojrdev/ricardojrdev/output/github-contribution-grid-snake-dark.svg">
