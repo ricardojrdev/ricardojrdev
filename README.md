@@ -13,7 +13,7 @@ I'm a student of Analysis and System Development at the University of Fortaleza 
  I am constantly updating my knowledge and seeking new challenges in the technology field. I have a passion for learning and applying this knowledge to create solutions.
 
 ![Ricardo Jr GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ricardojrdev&show_icons=true&theme=dark&card_width=450)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardojrdev&layout=compact&theme=dark&card_width=450&height=180)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardojrdev&layout=compact&theme=dark&card_width=450)
 
 
 <div style="display: inline_block"><br>
