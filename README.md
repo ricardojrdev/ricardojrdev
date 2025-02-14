@@ -1,4 +1,12 @@
-## Opaa, eu sou o Ricardo!
+Opaa, eu sou o Ricardo! 
+
+##
+
+<p>Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza - UNIFOR. 
+  <br>
+Atualmente trabalho como Gestor de CRM e estudo paralelamente.
+  <br>
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções.
 
 ![Ricardo Jr GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ricardojrdev&show_icons=true&theme=dark&card_width=450)
 <br>
