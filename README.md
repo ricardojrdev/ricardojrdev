@@ -20,4 +20,4 @@
   <a href="https://www.linkedin.com/in/oricardojr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation]([https://github.com/ricardojrdev/ricardojrdev/blob/main/.github/workflows/main.yml](https://github.com/ricardojrdev/ricardojrdev/blob/main/.github/workflows/cobrinha.yml))
+![Snake animation](https://github.com/ricardojrdev/ricardojrdev/blob/output/github-contribution-grid-snake.svg)
