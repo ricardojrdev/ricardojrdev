@@ -9,7 +9,7 @@
 
 I work as a Junior Developer, specializing in the Fluig platform, where I contribute to the development of solutions focused on process automation and corporate management.
 <br><br>
-Currently in the 3rd semester of Systems Analysis and Development at the University of Fortaleza (Unifor), I also take part in academic and research projects aimed at technological innovation and the creation of practical solutions.
+Currently in the 4rd semester of Systems Analysis and Development at the University of Fortaleza (Unifor), I also take part in academic and research projects aimed at technological innovation and the creation of practical solutions.
 <br><br>
 I have experience with JavaScript, Python, and Java, along with familiarity with GitHub, Microsoft 365, CRM, and development within the Fluig environment. I am continuously evolving, seeking to enhance my technical skills and expand my knowledge in software development and digital transformation.
 <br><br>
