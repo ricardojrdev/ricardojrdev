@@ -7,14 +7,14 @@
 
 **Hi, I'm Ricardo!**
 
-Currently working as an IT intern and software developer on the Fluig platform, contributing to the development of corporate management and process automation solutions.
-<br>
-I’m in my third semester of the Systems Analysis and Development program at the University of Fortaleza (Unifor), where I participate in hands-on academic projects and a Research and Development project focused on creating innovative solutions.
-<br>
-I have experience with JavaScript, Python, and Java, as well as knowledge in GitHub, Microsoft 365, CRM systems, and Fluig development. I’m always eager to learn new technologies and improve my technical and professional skills.
-<br>
-📩 Open to connections and collaborations in the tech field!
-<br>
+I work as a Junior Developer, specializing in the Fluig platform, where I contribute to the development of solutions focused on process automation and corporate management.
+<br><br>
+Currently in the 3rd semester of Systems Analysis and Development at the University of Fortaleza (Unifor), I also take part in academic and research projects aimed at technological innovation and the creation of practical solutions.
+<br><br>
+I have experience with JavaScript, Python, and Java, along with familiarity with GitHub, Microsoft 365, CRM, and development within the Fluig environment. I am continuously evolving, seeking to enhance my technical skills and expand my knowledge in software development and digital transformation.
+<br><br>
+📩 Open to connections, collaborations, and opportunities in the technology field!
+<br><br>
 ![Ricardo Jr GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ricardojrdev&show_icons=true&theme=dark&card_width=450)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardojrdev&layout=compact&theme=dark&card_width=450)
 
