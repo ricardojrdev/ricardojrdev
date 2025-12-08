@@ -5,16 +5,17 @@
 
 ##
 
-**Hi, I'm Ricardo!**
+**Hi, I'm Ricardo**
 
-I work as a Junior Developer, specializing in the Fluig platform, where I contribute to the development of solutions focused on process automation and corporate management.
+I currently work in IT Support, providing comprehensive technical assistance across infrastructure, systems, and user operations.
+<br>
+I’m in the 5th semester of the Systems Analysis and Development program at the University of Fortaleza (Unifor), continually strengthening both my technical foundation and practical experience in the technology field.
 <br><br>
-Currently in the 4rd semester of Systems Analysis and Development at the University of Fortaleza (Unifor), I also take part in academic and research projects aimed at technological innovation and the creation of practical solutions.
+I have previously worked as a Junior Developer at a consulting company, contributing to projects for major clients — including Findes (Sistema S), companies from the JHSF Group, and the Army in Brasília — where I supported process automation, system integrations, and workflow optimization.
 <br><br>
-I have experience with JavaScript, Python, and Java, along with familiarity with GitHub, Microsoft 365, CRM, and development within the Fluig environment. I am continuously evolving, seeking to enhance my technical skills and expand my knowledge in software development and digital transformation.
+I’m constantly evolving, expanding my technical skills, deepening my knowledge in software development, and enhancing my experience with cloud tools and IT operations.
 <br><br>
-📩 Open to connections, collaborations, and opportunities in the technology field!
-<br><br>
+📩 Open to networking, collaboration, and new opportunities in technology and software development.
 ![Ricardo Jr GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ricardojrdev&show_icons=true&theme=dark&card_width=450)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardojrdev&layout=compact&theme=dark&card_width=450)
 
