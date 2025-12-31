@@ -16,9 +16,6 @@ I have previously worked as a Junior Developer at a consulting company, contribu
 I’m constantly evolving, expanding my technical skills, deepening my knowledge in software development, and enhancing my experience with cloud tools and IT operations.
 <br><br>
 📩 Open to networking, collaboration, and new opportunities in technology and software development.
-![Ricardo Jr GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ricardojrdev&show_icons=true&theme=dark&card_width=450)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardojrdev&layout=compact&theme=dark&card_width=450)
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rjr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
